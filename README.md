@@ -15,11 +15,9 @@
   </a> -->
 </p>
 <p align="Center">
-	hi, i'm Shubham Sigdar.
+	I am a software engineer and a lifelong learner.
 </p>
-<p align="Center">
-	A software engineer from india.
-</p>
+
 
 
 
