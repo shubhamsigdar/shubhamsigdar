@@ -13,11 +13,13 @@
 <!--   <a href="https://shawncharles.com/resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
-  <p align="Center">
-	hi, i'm Shubham Sigdar, A software engineer from india.
 </p>
 <p align="Center">
-	
+	hi, i'm Shubham Sigdar.
 </p>
+<p align="Center">
+	A software engineer from india.
 </p>
+
+
 
