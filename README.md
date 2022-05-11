@@ -10,13 +10,27 @@
   <a href="https://twitter.com/shubhamsigdar" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-<!--   <a href="https://shawncharles.com/resume" target="_blank">
+<!--   <a href="#" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
-<p align="Center">
+<!-- <p align="Center">
 	I am a software engineer and a lifelong learner.
-</p>
+</p> -->
+
+See [my website](https://shubhamsigdar.netlify.app/) for more information!
+
+<h1 align="center">Projects</h1>
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Travelara.org</h3>
+        <br />
+        <a target="_blank" href="http://travelara.herokuapp.com">
+            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        </a>
 
 
 
