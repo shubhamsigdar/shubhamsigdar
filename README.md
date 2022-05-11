@@ -13,5 +13,12 @@
 <!--   <a href="https://shawncharles.com/resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
+  <p align="Center">
+	A creative, detail-oriented, software developer with a deep interest in AI and integrating 3D modeling in web design.
+</p>
+<p align="Center">
+	Quick learner who enjoys experimenting with new technology. Able to switch between perfectionism and pragmatism. Agile
+	software development, teamwork, extremely passionate about design. Always willing and able to think outside the box.
+</p>
 </p>
 
