@@ -17,9 +17,8 @@
 <!-- <p align="Center">
 	I am a software engineer and a lifelong learner.
 </p> -->
-<p align="Center">
 	See [my website](https://shubhamsigdar.netlify.app/) for more information!
-</p>
+
 <h1 align="center">Projects</h1>
 
 <table bordercolor="#66b2b2">
