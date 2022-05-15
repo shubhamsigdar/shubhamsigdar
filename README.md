@@ -43,7 +43,7 @@
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Hair Salon Website</h3>
         <br />
       <a target="_blank" href="https://hair-salon-website.netlify.app/">
             <img src="https://user-images.githubusercontent.com/102561192/168475938-3917a575-928f-4d37-9fe6-322c83127550.gif" width="100%"  alt="Rigley 2"/>
@@ -58,13 +58,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+      <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">My Portfolio</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
           <img src="https://user-images.githubusercontent.com/102561192/168474651-da256062-41c4-4de3-9e7f-d4dfd39c6dec.gif" width="100%" alt="Portfolio"/>
@@ -78,10 +78,10 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Dog Breed API</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="https://user-images.githubusercontent.com/102561192/168476433-963ac8bc-7537-4595-afd1-ba47777053fb.gif" width="100%" alt="Matching Cards"/>
@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
   </tr>
 </table>
