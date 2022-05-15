@@ -63,7 +63,7 @@
         <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
   </tr>
-  <!--
+ 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
