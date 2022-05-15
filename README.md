@@ -24,7 +24,7 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-     <td width="50%" valign="top">
+<!--      <td width="50%" valign="top">
       <h3 align="center">Cuisine Restaurant Website</h3>
         <br />
         <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
@@ -42,7 +42,7 @@
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong></p>
-    </td>
+    </td> -->
 	  
      <td width="50%" valign="top">
       <h3 align="center">Hair Salon Website</h3>
