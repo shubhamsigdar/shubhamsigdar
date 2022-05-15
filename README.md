@@ -34,7 +34,7 @@
         <p align="center">
 	
           
-  <a href="https://github.com/CharlesCreativeContent/lucidhttps://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Source%20restaurant%20website" target="_blank">
+  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Source%20restaurant%20website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://restaurant-sample-website.netlify.app/" target="_blank">
