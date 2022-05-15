@@ -25,18 +25,18 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Cuisine Restaurant</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
+        <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
             <img src="https://user-images.githubusercontent.com/102561192/168475523-ead25589-119e-4df2-9cd9-d01bd126b14c.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Source%20restaurant%20website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://restaurant-sample-website.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -45,16 +45,16 @@
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://hair-salon-website.netlify.app/">
             <img src="https://user-images.githubusercontent.com/102561192/168475938-3917a575-928f-4d37-9fe6-322c83127550.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Hair%20salon%20website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://hair-salon-website.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
