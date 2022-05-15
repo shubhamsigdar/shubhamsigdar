@@ -28,7 +28,7 @@
       <h3 align="center">Travelara.org</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="https://user-images.githubusercontent.com/102561192/168475523-ead25589-119e-4df2-9cd9-d01bd126b14c.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
@@ -46,7 +46,7 @@
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://user-images.githubusercontent.com/102561192/168475938-3917a575-928f-4d37-9fe6-322c83127550.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
@@ -67,7 +67,7 @@
       <h3 align="center">ShawnCharles.com</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="https://user-images.githubusercontent.com/102561192/168474651-da256062-41c4-4de3-9e7f-d4dfd39c6dec.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -84,7 +84,7 @@
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://user-images.githubusercontent.com/102561192/168476433-963ac8bc-7537-4595-afd1-ba47777053fb.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
