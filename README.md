@@ -66,15 +66,15 @@
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://shubhamsigdar.netlify.app/">
           <img src="https://user-images.githubusercontent.com/102561192/168474651-da256062-41c4-4de3-9e7f-d4dfd39c6dec.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="hhttps://github.com/shubhamsigdar/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://shubhamsigdar.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -83,16 +83,16 @@
     <td width="50%" valign="top">
       <h3 align="center">Dog Breed API</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a target="_blank" href="https://dogbreedapi.netlify.app/">
           <img src="https://user-images.githubusercontent.com/102561192/168476433-963ac8bc-7537-4595-afd1-ba47777053fb.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/shubhamsigdar/Get-Dog-picture-by-breed" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://dogbreedapi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
