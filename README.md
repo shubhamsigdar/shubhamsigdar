@@ -24,14 +24,15 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-<!--     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+     <td width="50%" valign="top">
+      <h3 align="center">Cuisine Restaurant Website</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/102561192/168475523-ead25589-119e-4df2-9cd9-d01bd126b14c.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
+	
           
   <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -40,9 +41,10 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
-    <td width="50%" valign="top">
+	  
+<!--     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
@@ -97,7 +99,7 @@
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td>-->
+    </td>--> -->
   </tr>
 </table> 
 
