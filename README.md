@@ -74,7 +74,7 @@
         </a>
       <br />
         <p align="center">
-  <a href="hhttps://github.com/shubhamsigdar/Portfolio" target="_blank">
+  <a href="https://github.com/shubhamsigdar/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://shubhamsigdar.netlify.app/" target="_blank">
