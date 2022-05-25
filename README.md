@@ -116,12 +116,12 @@
 <img src="https://icongr.am/devicon/express-original.svg?size=128&color=white" color="white" width="70" height="70" style="max-width: 100%;"> <!-- Express.js -->  
 </p>
 <p align="center" dir="auto">
-  <a href="https://www.codewars.com/users/shubhamsigdar" rel="nofollow"><img src="https://user-images.githubusercontent.com/102561192/170291611-e0cdd1e4-a903-4933-a56b-a5847e2d2f02.PNG" style="max-width: 100%;"></a>
+  <a href="https://www.codewars.com/users/shubhamsigdar" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsigdar/badges/large" style="max-width: 100%;"></a>
 </p>
-<!-- <img width="242" alt="codewars badges" src="https://user-images.githubusercontent.com/102561192/170291611-e0cdd1e4-a903-4933-a56b-a5847e2d2f02.PNG"> -->
+<!-- <img width="242" alt="cb-a5847e2d2f02.PNG"> -->
 
 
-<h1 align="center">Connect</h1>
+<h1 align="center">Connect</h1
 
 
 
