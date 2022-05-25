@@ -5,7 +5,7 @@
 
 
   <a href="https://shubhamsigdar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=#FFFFFFf&style=plastic&logo=react&logo-color=white"/>
+   <img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABOUExUReYsWg+r9jllvhee7Bem8eYsWuUsWg+r9kFYtExpcdIxZSp+0o1DilJTq+QsW+ItXBCp9YNxrm1NnA+r9hCo9OYsWg+r9rE6dzxuwnJPnMSYTBgAAAAadFJOU8uJ8dIYFobL+gDR4+P1sWNiCei0rTY62aim9YOEpgAAANZJREFUOMt90+0SRDAMQNGgRbDaULX7/i+6mEY/tO7fnJmYTgAibe0Ms5KYDRC3Fo5KAlBe86IA2mZ4EyAVwJsA3jAczUoEUQT2aTn7Vj5thQf70l/VY9PdGS0YDG6eiFWTA/unzwpjHZj6Pi80PUEkKuHApyAY7BEIBINhKggGRXGDkvCgIALwFCl4iDEFqXCA/MEkwgG8Ty4RNQNSecEfiSizouZ3wPPPUa3vV5/5l7wuk6RPaNMcdRGIEnr1B5MDgVgt5cAhDG/ALGBRWSqAa8t6zvEP3akc0/X2NW8AAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&logoColor=white" alt="Website" title="Website" />
   </a>
   <a href="https://www.linkedin.com/in/shubhamsigdar/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
