@@ -117,7 +117,9 @@
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-        <img style="margin: 10px" src="https://user-images.githubusercontent.com/102561192/170285280-926dab39-b340-45c2-9e96-3a66f39da590.svg" alt="Express.js" height="50" />  
+<!--         <img style="margin: 10px" src="https://user-images.githubusercontent.com/102561192/170285280-926dab39-b340-45c2-9e96-3a66f39da590.svg" alt="Express.js" height="50" />   -->
+	
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="Github" height="50" />  
 	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 	
  </p>
