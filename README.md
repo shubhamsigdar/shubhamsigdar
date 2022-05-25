@@ -112,12 +112,7 @@
 
 
 <p align="center">
-	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-	<img style="margin: 10px" src="https://user-images.githubusercontent.com/102561192/170286509-83a60c71-9a39-45c5-8c6d-72a897c5f951.svg" alt="Github" height="50" />  
+<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="70" height="70" style="max-width: 100%;"> <!--  CSS  --> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="70" height="70" style="max-width: 100%;"> <!--  HTML  --> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="70" height="70" style="max-width: 100%;"> <!-- JavaScript --> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React --> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!--- MongoDB --> <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!-- Node.js --> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=white" width="70" height="70" style="max-width: 100%;"> <!-- Express.js -->  
 </p>
 <!-- ![icons8-github](https://user-images.githubusercontent.com/102561192/170286509-83a60c71-9a39-45c5-8c6d-72a897c5f951.svg) -->
 
