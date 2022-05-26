@@ -129,7 +129,7 @@
 <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="70" height="70" style="max-width: 100%;"> <!--  CSS  --> 
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="70" height="70" style="max-width: 100%;"> <!-- JavaScript --> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="react" width="70" height="70" style="max-width: 100%;">
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="70" height="70" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/102561192/170447148-a879fc8a-bd76-4be5-9eb9-55fadb09caf6.svg" width="70" height="70" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" style="max-width: 100%;"> <!-- Node.js --> 
 <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React -->
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70" style="max-width: 100%;">
@@ -140,6 +140,7 @@
 <!-- <img width="242" alt="cb-a5847e2d2f02.PNG"> -->
 
 <!-- <img width="357" alt="express" src="https://user-images.githubusercontent.com/102561192/170295401-20040cee-480a-4f40-af87-24fe2d2a29af.PNG"> -->
+<!-- ![icons8-git](https://user-images.githubusercontent.com/102561192/170447148-a879fc8a-bd76-4be5-9eb9-55fadb09caf6.svg) -->
 
 
 
