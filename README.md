@@ -1,8 +1,5 @@
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/169693747-288ed423-f1d1-4dba-9485-e0a8c9fd804c.PNG" width="100%"></a>
 
-<h3 align="center">Software Engineer at 100devs</h3>
-
-<p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/'>here</a>
 
 <p align="center">
 
@@ -22,6 +19,10 @@
 <!-- 	 <a href="https://angel.co/u/joseph-milliken" target="_blank"><img src="https://img.shields.io/badge/-AngelList-fff?style=for-the-badge&logo=angelList&logoColor=black" alt="AngelList" title="AngelList" /></a>
   <a href="https://josephmilliken.com/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume" /></a> -->
 </p>
+
+<h3 align="center">Software Engineer at 100devs</h3>
+
+<p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/'>here</a>
 <!-- <p align="Center">
 	I am a software engineer and a lifelong learner.
 </p> -->
