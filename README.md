@@ -20,7 +20,7 @@
   <a href="https://josephmilliken.com/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume" /></a> -->
 </p>
 
-<h3 align="center">Software Engineer at 100devs</h3>
+<h3 align="center">Software Engineer at 100devs Agency</h3>
 
 <p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/'>here</a>
 <!-- <p align="Center">
