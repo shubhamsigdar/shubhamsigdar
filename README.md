@@ -125,7 +125,8 @@
 <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="70" height="70" style="max-width: 100%;"> <!--  CSS  --> 
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="70" height="70" style="max-width: 100%;"> <!-- JavaScript --> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="react" width="70" height="70" style="max-width: 100%;">
-<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React --> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!--- MongoDB --> <img src="https://user-images.githubusercontent.com/102561192/170289775-27fb95f8-011e-4427-854f-57eee99d1855.svg" width="70" height="70" style="max-width: 100%;"> <!-- Node.js -->  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" style="max-width: 100%;"> <!-- Node.js --> 
+<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React --> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!--- MongoDB -->  
 </p>
 
 <!-- <img width="242" alt="cb-a5847e2d2f02.PNG"> -->
