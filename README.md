@@ -129,6 +129,7 @@
 <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="70" height="70" style="max-width: 100%;"> <!--  CSS  --> 
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="70" height="70" style="max-width: 100%;"> <!-- JavaScript --> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="react" width="70" height="70" style="max-width: 100%;">
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="70" height="70" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" style="max-width: 100%;"> <!-- Node.js --> 
 <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React -->
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70" style="max-width: 100%;">
