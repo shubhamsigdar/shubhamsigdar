@@ -140,7 +140,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170448009-cce3311f-4068-45be-8e4a-44b1439c270c.gif" alt="@shubhamsigdar" height="30" width="40" style="color:blue;"/></a>
-<a href="https://linkedin.com/in/shubhamsigdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhamsigdar" height="30" width="40" style="color:blue;"/></a> 
+<a href="https://linkedin.com/in/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170448561-cd53d840-a9d3-412d-a013-4362299849bc.gif" alt="shubhamsigdar" height="30" width="40" style="color:blue;"/></a> 
 </p>
 
 
