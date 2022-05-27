@@ -3,6 +3,7 @@
 
 <p align="center">
 	<a href="https://shubhamsigdar.netlify.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789067-a429b258-4311-4290-980d-e7f0912403cb.svg" alt="portfolio" height="30" width="40"/></a>
+	<a href="mailto:shubhamsigdar@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789363-b6a2c4ee-ef81-45b4-b451-b54ab879bfbc.svg" alt="email" height="30" width="40"/></a>
 
 
 
