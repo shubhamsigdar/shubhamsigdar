@@ -6,7 +6,9 @@
 	<a href="mailto:shubhamsigdar@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789363-b6a2c4ee-ef81-45b4-b451-b54ab879bfbc.svg" alt="email" height="40" width="50"/></a>
 	<a href="https://twitter.com/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789583-91bf926f-ed30-488b-84da-cc65da82c7dd.svg" alt="twitter" height="40" width="50"/></a>
 	<a href="https://www.linkedin.com/in/shubhamsigdar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789674-f20a56cc-4b6b-4a25-8c3c-deb240feca9d.svg" alt="linkedin" height="40" width="50"/></a>
+		<a href="https://www.linkedin.com/in/shubhamsigdar/" target="blank"><img align="center" src="https://angel.co/images/static_pages/logo/AngelList_White_Victory_Hand.png" alt="linkedin" height="40" width="50"/></a>
 </p>
+
 
 <h3 align="center">Software Engineer at 100devs Agency</h3>
 
