@@ -131,14 +131,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170451511-02763e3a-0f9f-440c-a8c1-1cc573e360b9.svg" alt="@shubhamsigdar" height="30" width="40" style="color:blue;"/></a>
-<a href="https://linkedin.com/in/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170451989-e7b70a4a-c7f6-403b-9764-ffe7fed8e7b8.svg" alt="shubhamsigdar" height="30" width="40" style="color:blue;"/></a> 
+<a href="https://twitter.com/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789918-b724d83f-8d1c-4fcb-8633-0831bc7f41a5.svg" alt="@shubhamsigdar" height="30" width="40" style="color:blue;"/></a>
+<a href="https://linkedin.com/in/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789864-7b0079c6-66a4-474a-892a-729b3ff93e67.svg" alt="shubhamsigdar" height="30" width="40" style="color:blue;"/></a> 
 </p>
-
-
-<!-- ![linkedin](https://user-images.githubusercontent.com/102561192/170451989-e7b70a4a-c7f6-403b-9764-ffe7fed8e7b8.svg) -->
-
-
 
 
 
