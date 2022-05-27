@@ -10,7 +10,7 @@
 
 <h3 align="center">Software Engineer at 100devs Agency</h3>
 
-<p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/'>here</a>
+<p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/' style="color:white;">here</a>
 <!-- <p align="Center">
 	I am a software engineer and a lifelong learner.
 </p> -->
