@@ -1,7 +1,7 @@
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/169693747-288ed423-f1d1-4dba-9485-e0a8c9fd804c.PNG" width="100%"></a>
 
 
-<p align="center">
+<!-- <p align="center">
 
 
   <a href="https://shubhamsigdar.netlify.app/" target="_blank">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter" />
   </a>
 
-</p>
+</p> -->
 
 <h3 align="center">Software Engineer at 100devs Agency</h3>
 
