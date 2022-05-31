@@ -1,7 +1,12 @@
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/169693747-288ed423-f1d1-4dba-9485-e0a8c9fd804c.PNG" width="100%"></a>
 
-
-
+<p align="center">
+<a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/@CodesCarl-ffdd67?&style=for-the-badge&logo=twitter&logoColor=707070" height=25></a>
+<a href="https://www.codewars.com/users/beblicarl"><img src="https://img.shields.io/badge/Codewars-ffdd67?style=for-the-badge&logo=Codewars&logoColor=707070" height=25></a>
+<a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/beblicarl.cb@gmail.com-ffdd67?style=for-the-badge&logo=gmail&logoColor=707070" height=25></a>
+<a href="https://www.linkedin.com/in/carl-bebli/"><img src="https://img.shields.io/badge/carl_bebli-ffdd67?style=for-the-badge&logo=linkedin&logoColor=707070" height=25></a>
+<a href="https://dev.to/flt_s3nyo"><img src="https://img.shields.io/badge/Download_Resume-ffdd67?style=for-the-badge&logo=googledrive&logoColor=707070" height=25></a>
+</p>
 
 <!-- <h3 align="center">Software Engineer at 100devs Agency</h3> -->
 
