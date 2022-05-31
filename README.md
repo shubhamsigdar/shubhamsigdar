@@ -1,8 +1,5 @@
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/169693747-288ed423-f1d1-4dba-9485-e0a8c9fd804c.PNG" width="100%"></a>
 
-<h3 align="center">Hi, I'm ,Shubham Sigdar, a software engineer and a freelance developer from India.<h3>
-
-
 
 <p align="center">
 <a href="mailto:shubhamsigdar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height=25></a>
@@ -14,7 +11,9 @@
 <a href="#/"><img src="https://img.shields.io/badge/ANGELLIST-000000?style=for-the-badge&logo=angellist&logoColor=FFFFFF" height=25></a>
 </p>
 
-<!-- <h3 align="center">Software Engineer at 100devs Agency</h3> -->
+<h3 align="center">Hi, I'm ,Shubham Sigdar, a software engineer and a freelance developer from India.<h3>
+<h3 align="center">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.<h3>
+
 
 <p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/'>here</a>
 <!-- <p align="Center">
