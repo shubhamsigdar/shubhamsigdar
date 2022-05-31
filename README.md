@@ -118,9 +118,9 @@
 <a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" height=25></a> 
 <a href="#"><img src="https://img.shields.io/badge/CSS-FFFFFF?&style=for-the-badge&logo=css3&logoColor=000000" height=25></a>
 <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height=25></a>
-<a href="#"><img src="https://img.shields.io/badge/GIT-FFFFFF?&style=for-the-badge&logo=git3&logoColor=000000" height=25></a>
+<a href="#"><img src="https://img.shields.io/badge/GIT-FFFFFF?&style=for-the-badge&logo=git&logoColor=000000" height=25></a>
 <a href="#"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height=25></a>
-<img src="https://user-images.githubusercontent.com/102561192/170447500-39fcd715-371f-4921-a4a2-db778723f30a.gif" width="50" height="50" style="max-width: 100%;">
+<a href="#"><img src="https://img.shields.io/badge/NODE.JS-FFFFFF?&style=for-the-badge&logo=nodedotjs&logoColor=000000" height=25></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="react" width="50" height="50" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="max-width: 100%;"> <!-- Node.js --> 
 <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="50" height="50" style="max-width: 100%;"> <!-- React -->
