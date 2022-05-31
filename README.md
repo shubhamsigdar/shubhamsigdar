@@ -12,9 +12,8 @@
 </p>
 
 <h3 align="center">Hi, I'm ,Shubham Sigdar, a software engineer and a freelance developer from India.<h3>
-<p align="center"> 💼 any freelance work? do reach, <a href='mailto:shubhamsigdar@gmail.com'>email</a></p>
-<p align="center">💬 ask me about anything, i am happy to help</p>
-<!-- <p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/'>here</a></p> -->
+
+<p align="center"> <a href='https://shubhamsigdar.netlify.app/'>my website</a> for more information! </p>
 <!-- <p align="Center">
 	I am a software engineer and a lifelong learner.
 </p> -->
