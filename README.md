@@ -2,8 +2,7 @@
 
 <p align="center">
 <a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/TWITTER-FFFFFF?&style=for-the-badge&logo=twitter&logoColor=000000" height=25></a>
-<a href="https://www.codewars.com/users/beblicarl"><img src="https://img.shields.io/badge/Codewars-ffdd67?style=for-the-badge&logo=Codewars&logoColor=707070" height=25></a>
-<a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/beblicarl.cb@gmail.com-ffdd67?style=for-the-badge&logo=gmail&logoColor=707070" height=25></a>
+<a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height=25></a>
 <a href="https://www.linkedin.com/in/carl-bebli/"><img src="https://img.shields.io/badge/carl_bebli-ffdd67?style=for-the-badge&logo=linkedin&logoColor=707070" height=25></a>
 <a href="https://dev.to/flt_s3nyo"><img src="https://img.shields.io/badge/Download_Resume-ffdd67?style=for-the-badge&logo=googledrive&logoColor=707070" height=25></a>
 </p>
