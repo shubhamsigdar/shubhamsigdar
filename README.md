@@ -1,5 +1,11 @@
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/169693747-288ed423-f1d1-4dba-9485-e0a8c9fd804c.PNG" width="100%"></a>
 
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="50px"> <img src="https://media4.giphy.com/media/dlh7c1N7NqrH1ns4Yf/giphy.gif" height="50px">
+</p>
+
+
 <p align="center">
 <a href="mailto:shubhamsigdar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height=25></a>
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" height=25></a>
