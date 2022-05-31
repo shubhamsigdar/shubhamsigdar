@@ -132,7 +132,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
 <a href="https://www.linkedin.com/in/shubhamsigdar/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height=25></a>
 <a href="https://twitter.com/shubhamsigdar"><img src="https://img.shields.io/badge/TWITTER-FFFFFF?&style=for-the-badge&logo=twitter&logoColor=000000" height=25></a>
 </p>
