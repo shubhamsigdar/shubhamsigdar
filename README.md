@@ -12,10 +12,10 @@
 </p>
 
 <h3 align="center">Hi, I'm ,Shubham Sigdar, a software engineer and a freelance developer from India.<h3>
-<h3 align="center">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.<h3>
+<p align="center">- 💼 any freelance work? do reach, <a href='mailto:shubhamsigdar@gmail.com'>email</a></p>
 
 
-<p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/'>here</a>
+<p align="center"> 👨‍💻 All of my projects are available <a href='https://shubhamsigdar.netlify.app/'>here</a></p>
 <!-- <p align="Center">
 	I am a software engineer and a lifelong learner.
 </p> -->
