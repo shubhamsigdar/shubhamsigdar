@@ -102,17 +102,7 @@
   </tr>
 </table>
 
-
-
-<h1 align="center">Codewars</h1>
-
-
-<p align="center" dir="auto">
-  <a href="https://www.codewars.com/users/shubhamsigdar" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsigdar/badges/small" style="max-width: 100%;"></a>
-</p>
-
-
-
+	
 <h1 align="center">Technologies</h1>
 
 
@@ -131,6 +121,18 @@
 <a href="#"><img src="https://img.shields.io/badge/MDN-FFFFFF?&style=for-the-badge&logo=mdn&logoColor=000000" height=25></a>
 
 </p>
+	
+	
+
+
+<h1 align="center">Codewars</h1>
+
+
+<p align="center" dir="auto">
+  <a href="https://www.codewars.com/users/shubhamsigdar" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsigdar/badges/small" style="max-width: 100%;"></a>
+</p>
+
+
 
 
 
