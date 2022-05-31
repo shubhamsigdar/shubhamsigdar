@@ -121,12 +121,10 @@
 <a href="#"><img src="https://img.shields.io/badge/GIT-FFFFFF?&style=for-the-badge&logo=git&logoColor=000000" height=25></a>
 <a href="#"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height=25></a>
 <a href="#"><img src="https://img.shields.io/badge/NODE.JS-FFFFFF?&style=for-the-badge&logo=nodedotjs&logoColor=000000" height=25></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="react" width="50" height="50" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="max-width: 100%;"> <!-- Node.js --> 
-<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="50" height="50" style="max-width: 100%;"> <!-- React -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" style="max-width: 100%;">
-<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="50" height="50" style="max-width: 100%;"> <!--- MongoDB -->  
-<img src="https://user-images.githubusercontent.com/102561192/170446434-b55f1ef7-3fb8-4a1c-9abc-20be20807c17.svg" width="50" height="50" style="max-width: 100%;">
+<a href="#"><img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" height=25></a>
+<a href="#"><img src="https://img.shields.io/badge/MONGODB-FFFFFF?&style=for-the-badge&logo=mongodb&logoColor=000000" height=25></a>
+<a href="#"><img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" height=25></a>
+<a href="#"><img src="https://img.shields.io/badge/VISUAL_STUDIO-FFFFFF?&style=for-the-badge&logo=visual%20studio&logoColor=000000" height=25></a>
 </p>
 
 
