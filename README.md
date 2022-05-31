@@ -1,12 +1,6 @@
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/169693747-288ed423-f1d1-4dba-9485-e0a8c9fd804c.PNG" width="100%"></a>
 
 
-<p align="center">
-	<a href="https://shubhamsigdar.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/website?color=black&url=https%3A%2F%2Fshubhamsigdar.netlify.app%2F" alt="portfolio" height="40" width="100"/></a>
-<!-- 	<a href="mailto:shubhamsigdar@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789363-b6a2c4ee-ef81-45b4-b451-b54ab879bfbc.svg" alt="email" height="30" width="40"/></a> -->
-	<a href="https://twitter.com/shubhamsigdar" target="blank"><img align="center" src="https://img.shields.io/twitter/url?color=white&label=Twitter&logoColor=black&url=https%3A%2F%2Ftwitter.com%2Fshubhamsigdar" alt="twitter" height="40" width="100"/></a>
-<!-- 	<a href="https://www.linkedin.com/in/shubhamsigdar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789674-f20a56cc-4b6b-4a25-8c3c-deb240feca9d.svg" alt="linkedin" height="30" width="40"/></a> -->
-</p>
 
 
 <!-- <h3 align="center">Software Engineer at 100devs Agency</h3> -->
