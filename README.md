@@ -116,7 +116,7 @@
 
 <p align="center">
 <!-- <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="50" height="50" style="max-width: 100%;"> <!--  HTML  -->  
-<a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html&logoColor=FFFFFF" height=25></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" height=25></a>
 <!-- <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="50" height="50" style="max-width: 100%;"> <!--  CSS  -->  
 <a href="#"><img src="https://img.shields.io/badge/CSS-FFFFFF?&style=for-the-badge&logo=css3&logoColor=000000" height=25></a>
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="50" height="50" style="max-width: 100%;"> <!-- JavaScript --> 
