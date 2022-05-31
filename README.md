@@ -1,10 +1,10 @@
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/169693747-288ed423-f1d1-4dba-9485-e0a8c9fd804c.PNG" width="100%"></a>
 
 <p align="center">
-<a href="mailto:beblicarl@email.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height=25></a>
-<a href="https://twitter.com/CodesCarl"><img src="https://img.shields.io/badge/TWITTER-FFFFFF?&style=for-the-badge&logo=twitter&logoColor=000000" height=25></a>
-<a href="https://www.linkedin.com/in/carl-bebli/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height=25></a>
-<a href="https://dev.to/flt_s3nyo"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=googledrive&logoColor=000000" height=25></a>
+<a href="mailto:shubhamsigdar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height=25></a>
+<a href="https://twitter.com/shubhamsigdar"><img src="https://img.shields.io/badge/TWITTER-FFFFFF?&style=for-the-badge&logo=twitter&logoColor=000000" height=25></a>
+<a href="https://www.linkedin.com/in/shubhamsigdar/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height=25></a>
+<!-- <a href="https://dev.to/flt_s3nyo"><img src="https://img.shields.io/badge/RESUME-ffffff?style=for-the-badge&logo=googledrive&logoColor=000000" height=25></a> -->
 </p>
 
 <!-- <h3 align="center">Software Engineer at 100devs Agency</h3> -->
