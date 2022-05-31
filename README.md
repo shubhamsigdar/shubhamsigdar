@@ -125,6 +125,7 @@
 <a href="#"><img src="https://img.shields.io/badge/MONGODB-FFFFFF?&style=for-the-badge&logo=mongodb&logoColor=000000" height=25></a>
 <a href="#"><img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" height=25></a>
 <a href="#"><img src="https://img.shields.io/badge/VISUAL_STUDIO-FFFFFF?&style=for-the-badge&logo=visual%20studio&logoColor=000000" height=25></a>
+<a href="#"><img src="https://img.shields.io/badge/GOOGLE-000000?style=for-the-badge&logo=google&logoColor=FFFFFF" height=25></a>
 </p>
 
 
