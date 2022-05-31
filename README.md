@@ -132,8 +132,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789918-b724d83f-8d1c-4fcb-8633-0831bc7f41a5.svg" alt="@shubhamsigdar" height="30" width="40" style="color:blue;"/></a>
-<a href="https://linkedin.com/in/shubhamsigdar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102561192/170789864-7b0079c6-66a4-474a-892a-729b3ff93e67.svg" alt="shubhamsigdar" height="30" width="40" style="color:blue;"/></a> 
+
+<a href="https://www.linkedin.com/in/shubhamsigdar/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height=25></a>
+<a href="https://twitter.com/shubhamsigdar"><img src="https://img.shields.io/badge/TWITTER-FFFFFF?&style=for-the-badge&logo=twitter&logoColor=000000" height=25></a>
 </p>
 
 
