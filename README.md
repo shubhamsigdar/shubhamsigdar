@@ -12,7 +12,7 @@
 <a href="#/"><img src="https://img.shields.io/badge/ANGELLIST-000000?style=for-the-badge&logo=angellist&logoColor=FFFFFF" height=25></a>
 </p>
 
-<h3 align="center">Hi, I'm ,Shubham Sigdar, a software engineer and a freelance developer from India.<h3>
+<h3 align="center">Hi, I'm Shubham Sigdar, a software engineer and a freelance developer from India.<h3>
 
 <p align="center"> <a href='https://shubhamsigdar.netlify.app/'>my website</a> for more information! </p>
 <!-- <p align="Center">
