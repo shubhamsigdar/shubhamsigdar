@@ -1,6 +1,6 @@
 <a href="https://shubhamsigdar.netlify.app/"><img src="https://user-images.githubusercontent.com/102561192/169693747-288ed423-f1d1-4dba-9485-e0a8c9fd804c.PNG" width="100%"></a>
 
-<h3 align="center">Hi, I'm ,[Shubham Sigdar](https://shubhamsigdar.netlify.app/) A Software Engineer and a Freelance Developer from India.<h3>
+<h3 align="center">Hi, I'm ,Shubham Sigdar a Software Engineer and a Freelance Developer from India.<h3>
 
 
 
