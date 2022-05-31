@@ -114,12 +114,11 @@
 <h1 align="center">Technologies</h1>
 
 
-<p align="center">
-<!-- <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="50" height="50" style="max-width: 100%;"> <!--  HTML  -->  
-<a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" height=25></a>
-<!-- <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="50" height="50" style="max-width: 100%;"> <!--  CSS  -->  
+<p align="center"> 
+<a href="#"><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF" height=25></a> 
 <a href="#"><img src="https://img.shields.io/badge/CSS-FFFFFF?&style=for-the-badge&logo=css3&logoColor=000000" height=25></a>
-<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="50" height="50" style="max-width: 100%;"> <!-- JavaScript --> 
+<!-- <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="50" height="50" style="max-width: 100%;"> <!-- JavaScript -->  
+<a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript5&logoColor=FFFFFF" height=25></a>
 
 <img src="https://user-images.githubusercontent.com/102561192/170447148-a879fc8a-bd76-4be5-9eb9-55fadb09caf6.svg" width="50" height="50" style="max-width: 100%;">
 <img src="https://user-images.githubusercontent.com/102561192/170447500-39fcd715-371f-4921-a4a2-db778723f30a.gif" width="50" height="50" style="max-width: 100%;">
